@@ -1,0 +1,132 @@
+
+@chart-prefix-cls: ~'chart';
+
+.@{chart-prefix-cls} {
+    user-select: none;
+    &-x-line {
+        stroke: #eaeaea;
+    }
+
+    &-x-line-text {
+        fill: #999;
+        font-size: 12px;
+    }
+
+    &-line {
+        stroke-width: 1;
+        fill: none;
+        stroke: #57abfb;
+    }
+
+    &-point-info-box {
+        position: fixed;
+        pointer-events: none;
+        z-index: 9999;
+        top: 100px;
+        background: rgba(0, 0, 0, 0.5);
+        border-radius: 5px;
+        color: #fff;
+        padding: 7px 10px;
+        width: 200px;
+
+        .@{chart-prefix-cls}-point-date {
+            white-space: nowrap;
+        }
+
+        .@{chart-prefix-cls}-box-line {
+            display: flex;
+            align-items: center;
+            white-space: nowrap;
+        }
+
+        .@{chart-prefix-cls}-line-color-circle {
+            width: 10px;
+            height: 10px;
+            margin-right: 5px;
+            border-radius: 100%;
+            flex-shrink: 0;
+        }
+
+        .@{chart-prefix-cls}-line-text {
+          overflow: hidden;
+          flex-grow: 1;
+          display: flex;
+        }
+
+        .@{chart-prefix-cls}-line-text-title {
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+
+        .@{chart-prefix-cls}-line-text-value {
+          flex-shrink: 0;
+        }
+    }
+
+    &-unit-wrapper {
+        position: absolute;
+        top: 0;
+        left: 40px;
+        color: #aaa;
+    }
+
+    &-labels {
+        position: absolute;
+        right: 35px;
+        top: 0;
+        width: 90%;
+        display: flex;
+        flex-direction: row-reverse;
+
+        &.@{chart-prefix-cls}-center {
+            margin-top: 0;
+            justify-content: center;
+        }
+    }
+
+    &-label-wrapper {
+        display: inline-flex;
+        flex-wrap: wrap;
+    }
+
+    &-label {
+        cursor: pointer;
+        margin-right: 15px;
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+
+        &.@{chart-prefix-cls}-hide {
+            color: #ccc;
+        }
+    }
+
+    &-line-series-shape {
+        position: relative;
+        width: 23px;
+        height: 2px;
+        margin-right: 7px;
+        border-radius: 3px;
+
+        .@{chart-prefix-cls}-circle {
+            content: "";
+            position: absolute;
+            left: 8px;
+            top: -3px;
+            background: #fff;
+            border-radius: 100%;
+            padding: 3px;
+            border: 1px solid transparent;
+            width: 5px;
+            height: 5px;
+        }
+    }
+
+    &-bar-series-shape {
+        width: 20px;
+        height: 8px;
+        border-radius: 2px;
+        margin-right: 7px;
+    }
+}

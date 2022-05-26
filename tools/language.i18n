@@ -1,0 +1,335 @@
+#tip:
+成功 (success)
+Success
+#common:
+暂无数据 (no-data)
+No data
+复制 (copy)
+Copy
+添加Arbitrum网络 (add-arbitrum-network)
+Add Arbitrum Network
+请切换至Arbitrum网络 (switch-to-arbitrum-network)
+Please switch to Arbitrum Network
+请切换至Rinkeby网络 (switch-to-rinkeby-network)
+Please switch to Rinkeby Network
+所有 (all)
+All
+#world:
+胜率 (win-rate)
+Win rate
+收益 (earnings)
+Bonus
+队员数量 (total-players)
+Total players
+排名 (ranking)
+Ranking
+类型 (type)
+Type
+队伍编号 (team-code)
+No.
+速率 (win-rate)
+Win rate
+队伍地址 (address)
+Address
+队员地址 (team-number-address)
+Address
+再带队伍 (owned-team)
+Owned team
+总收益 (all-earnings)
+Bonus
+总贡献 (player-all-earnings)
+Bonus
+
+#mining:
+存稳定币 (stable-coin)
+Stable coin
+存其它币 (other-coin)
+Other coin
+历史 (history)
+History
+请链接你的钱包 (connect-your-wallet)
+Connect your wallet
+带队 (be-a-captain)
+Be a captain
+参队 (be-a-player)
+Be a player
+
+#team:
+加入队伍 (join-a-team)
+Join
+加入队伍 (join-this-team)
+Join
+我加入的 (joined-team)
+Joined team
+我是队长 (owned-team)
+Owned team
+全部 (all)
+All
+稳定币队伍 (stable-coin-team)
+Stable coin team
+其他币队伍 (other-team)
+Other team
+进程 (process)
+process
+奖金收益 (bonus-earnings)
+Bonus
+人数 (number-of-people)
+Number of player
+胜率 (win-rate)
+Win rate
+加入队伍 (join)
+Join
+队员人数 (team-population)
+Team population
+收益KC (earnings)
+Earnings
+贡献 (contribution)
+Contribution
+增加贡献 (deposit)
+Deposit
+邀请入队 (invitation)
+Invitation
+退出队伍 (exit-team)
+Exit team
+搜索 (search)
+Search
+限时建仓 (order-countdown)
+Order Countdown
+队伍收益 (team-earnings)
+Team Bonus
+队长收益 (captain-earnings)
+Captain Bonus
+人数 (total-members)
+Total members
+查看进程 (look-process)
+Process
+增加贡献 (deposit)
+Deposit
+邀请入队 (invitation)
+Invitation
+设准入金 (threshold)
+Threshold
+资产标的 (underlying-asset)
+Asset
+输入期权金筹码 (premium-amount)
+Premium amount
+可支配总KC (available-kc)
+Available KC
+滑点设置 (slippage)
+Slippage
+其它币队伍 (other-team2)
+Other team
+收益率 (earnings-rate)
+Earnings rate
+提取 (claim)
+Claim
+
+#dialog:
+创建成功 (successfully-title)
+Success!
+查看我的小组 (to-my-team)
+View My Team
+创建成功 (created-successfully)
+Your team has been created successfully
+加入队伍成功 (join-team-success)
+Join Team Success
+队伍编号 (team-number)
+Team Number
+队长 (captain)
+Captain
+分享 (share)
+Share
+立即查看 (view-now)
+View Now
+加入失败 (join-dail)
+Oops!
+您已加入其他队伍请退出后重试 (has-joined-please-exit)
+You can only join one team at a time Please try again after you exit the current team
+加入成功 (join-Success-title)
+Success
+您已成功加入队伍 (successfully-joined-the-team)
+Yeah! You have successfully joined the team
+存入 (deposit)
+Deposit
+兑现 (withdraw)
+Withdraw
+凭证划转 (withdraw-kdai)
+Withdraw KDAI
+等待中 (processing)
+Processing
+成功 (succeeded)
+Succeeded
+失败 (failed)
+Failed
+创建失败 (creation-failed)
+Oops!
+未满足2020KDAI无法建队 (not-has-2020)
+Unable to create a team with amount < 2020 KDAI
+本次收益 (earnings-this-round)
+Bonus this round
+队长转让 (captain-transfer)
+Captain Transfer
+恭喜您已成为 (succeeded-transfer)
+Congratulations! You have become the captain of team 
+原队长 (previous-captain)
+Previous captain
+转让成功 (transfer-succeeded)
+Success
+队长转让成功 (leader-transfer-succeeded)
+You have successfully transferred your captain position
+退出确认 (leave-the-team)
+Leave the Team
+退出队伍后会自动放弃本轮收益 (exit-without-profit)
+Are you sure you want to leave? Leave the team means automatically give up bonus of this round
+取消 (cancel)
+Cancel
+立即退出 (leave-now)
+Leave Now
+队长转让 (captain-transfer)
+Captain Transfer
+转让后仍在队伍中但无法获得上局收益 (transfer-in-team-no-profit)
+You will still be in the team after transfer your position, but you can’t receive the bonus from last round.
+可转让队员 (substitute-captain)
+Substitute Captain
+正在结算... (settlement-processing)
+Settlement processing
+即将到来 (upcoming)
+Upcoming
+等待中 60:00 (Waiting)
+Waiting
+账户余额 (account-balance)
+Account Balance
+请输入数量 (please-enter-amount)
+Please enter amount
+全部 (all)
+All
+可获得本金 (available-amount)
+Available Amount
+兑现 (swap)
+Swap
+加入队伍至少需要{$} KDAI (at-least-limit)
+You need at least {$} KDAI to enter this team
+加入队伍 (join-the-team)
+Join the team
+进入队伍至少需要1800KDAI (join-at-least)
+You need at least 1800 KDAI to enter this team
+可获得KDAI (available-KDAI-amount)
+Available KDAI amount
+存入 (deposit)
+Deposit
+提取 (withdraw)
+Withdraw
+查看我的队伍信息 (my-team-info)
+My Team Info
+当前准入金 (current-team-access-threshold)
+Current team access threshold
+设置准入金 (set-the-team-access-threshold)
+Set Threshold
+确定 (confirm)
+Confirm
+请输入金额 (please-enter-quantity)
+Please enter amount
+价值 (value)
+Value(DAI)
+预计到达时间 (estimated-arrival-time)
+Estimated arrival time
+提现KDAI (withdraw-KDAI)
+Withdraw  KDAI
+Rinkeby账户余额 (rinkeby-account-balance)
+Rinkeby account balance
+可获得 (available)
+Available
+是否展示当前排名 (whether-to-show-ranking)
+Whether to show the current ranking
+不展示 (no-show)
+NO
+当前排名 (current-ranking)
+Current ranking 
+是否展示当前人数 (Show-the-team-size)
+Whether to Show the team size
+是否展示胜率 (show-the-win-rate)
+Whether to show the win rate
+是否展示当前收益 (show-the-current-earnings)
+Whether to show the current bonus
+是否展示成就 (show-achievements)
+Whether to show achievements
+人数 (population)
+Population
+成就 (achievement)
+Achievement
+当前所需要准入金 (team-access-threshold)
+Current team access threshold
+参与队伍需要先进行质押挖矿 (deposit-first-before-entering)
+You should deposit first before entering a team
+转让后仍在队伍中但无法获得上局收益 (transfer-team-no-money)
+You will still be in the team after transfer your position, but you can’t receive the bonus from last round.
+可转让队员 (substitute-captain)
+Substitute Captain
+你已加入其他队伍请退出后重试 (you-already-join-you-out-team)
+You can only join one team at a time <div>Please try again after you exit the current team</div>
+生成预览 (generate-preview)
+Generate preview
+重新编辑 (re-edit)
+Re-edit
+生成链接 (generate-link)
+Generate link
+参与 (participate-in)
+join
+解锁钱包 (unlock-wallet)
+Unlock wallet
+请设置邀请展示信息 (set-invitation)
+Setting up invitation display
+来自KAKI队长的诚挚邀请 (invitation-from)
+An invitation from captain kakier
+通知 (notification)
+Notification
+正在加入队伍 (Joining-the-team)
+Joining the team...
+跳转查看 (view-process)
+View Process
+提示 (tips)
+Tips
+切换网络 (switch-network)
+Switch network
+总KDAI (total-KDAI)
+Total KDAI
+下桥 (off-bridge)
+Off Bridge
+划转 (transfer)
+Transfer
+桥 (bridge)
+Bridge
+区块 (block)
+Block
+约{$}天 (about-time)
+Around {$} days
+区块状态 (block-status)
+Block status
+建仓信息 (order-info)
+Order info
+到期币价 (maturity-price)
+Maturity price
+本轮收益 (this-earnings)
+Bonus
+当前队伍人数 (new-team-num)
+Number of player
+当前队伍排名 (team-ranking1)
+Team ranking
+当前队伍胜率 (win-rate1)
+Win rate
+当前队伍收益 (current-earnings1)
+Current bonus
+当前已存在队伍 (exist-in-team)
+You are already in this team
+
+#history:
+成功 (success)
+Success
+当前所需要准入金 (Current-team-access-threshold)
+Current team access threshold
+可贡献 (available11)
+Available
+
+#header:
+请链接钱包 (link-wallet)
+Link wallet
